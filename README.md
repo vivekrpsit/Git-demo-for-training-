@@ -14,4 +14,13 @@ Edit
 
 I tried this in .gitconfig -->
 
-[alias] notepad='C:/Program Files/Notepad++/notepad++.exe'
+
+##Ipsum below
+
+Instead i want the file to open with notepad++
+
+Note : I've added notepad++ to my PATH, but still unable to invoke it from commandline.
+
+Edit
+
+I tried this in .gitconfig -->
