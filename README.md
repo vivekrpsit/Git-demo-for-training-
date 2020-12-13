@@ -1,2 +1,17 @@
 #DEMO Git repository
 this is the first line in the repo
+
+##Ipsum below
+Hi guys i'm using msysgit in Window 7. How do i invoke notepad++ from Git Bash like we do it with our default notepad. Like for example
+
+name@usename notepad textfile.txt
+
+Instead i want the file to open with notepad++
+
+Note : I've added notepad++ to my PATH, but still unable to invoke it from commandline.
+
+Edit
+
+I tried this in .gitconfig -->
+
+[alias] notepad='C:/Program Files/Notepad++/notepad++.exe'
